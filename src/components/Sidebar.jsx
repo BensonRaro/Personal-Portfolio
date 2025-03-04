@@ -28,11 +28,7 @@ const Sidebar = () => {
     <aside className="sidebar">
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <img
-            src="https://i.postimg.cc/JzBWVhW4/my-avatar.png"
-            alt="avatar"
-            width="80"
-          />
+          <img src="/logo.png" alt="avatar" width="80" />
         </figure>
         <div className="info-content">
           <h1 className="name">Benson Raro</h1>
