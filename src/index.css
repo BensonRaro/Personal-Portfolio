@@ -216,7 +216,7 @@ article {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-gradient-yellow);
+  background: var(--text-green);
   border-radius: 3px;
 }
 
@@ -771,7 +771,7 @@ article {
   height: 6px;
   width: 6px;
   border-radius: 50%;
-  background: var(--text-gradient-yellow);
+  background: var(--text-green);
   box-shadow: 0 0 0 4px var(--jet);
 }
 
@@ -823,7 +823,7 @@ article {
 }
 
 .skills-progress-fill {
-  background: var(--text-gradient-yellow);
+  background: var(--text-green);
   height: 100%;
   border-radius: inherit;
 }
