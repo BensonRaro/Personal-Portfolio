@@ -28,24 +28,24 @@ const testimonials = [
 const services = [
   {
     title: "Web Design",
-    icon: "https://i.postimg.cc/4389jZkP/icon-design.png",
+    icon: "https://img.icons8.com/pastel-glyph/64/40C057/web-design--v1.png",
     description:
       "The most modern and high-quality design made at a professional level.",
   },
   {
     title: "Web Development",
-    icon: "https://i.postimg.cc/ZqgqrqzG/icon-dev.png",
+    icon: "https://img.icons8.com/ios-filled/50/40C057/imac-settings.png",
     description: "High-quality development of sites at the professional level.",
   },
   {
     title: "Mobile Apps",
-    icon: "https://i.postimg.cc/xjLdzYxZ/icon-app.png",
+    icon: "https://img.icons8.com/pastel-glyph/64/40C057/mobile-taxi-service.png",
     description:
       "Professional development of applications for iOS and Android.",
   },
   {
     title: "Photography",
-    icon: "https://i.postimg.cc/0NL8zHpx/icon-photo.png",
+    icon: "https://img.icons8.com/pastel-glyph/64/40C057/camera.png",
     description:
       "I make high-quality photos of any category at a professional level.",
   },
